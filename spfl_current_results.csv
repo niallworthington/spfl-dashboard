@@ -1,0 +1,175 @@
+Home,Away,HomeGoals,AwayGoals
+Kilmarnock,Livingston,2,2
+Motherwell,Rangers,1,1
+Falkirk,Dundee United,2,2
+Dundee FC,Hibernian,1,2
+Celtic,St. Mirren,1,0
+Hearts,Aberdeen,2,0
+Livingston,Falkirk,3,1
+St. Mirren,Motherwell,0,0
+Rangers,Dundee FC,1,1
+Aberdeen,Celtic,0,2
+Dundee United,Hearts,2,3
+Hibernian,Kilmarnock,2,2
+Celtic,Livingston,3,0
+Hearts,Motherwell,3,3
+Kilmarnock,Dundee FC,0,0
+St. Mirren,Rangers,1,1
+Dundee United,Aberdeen,2,0
+Falkirk,Hibernian,2,2
+Livingston,Hearts,1,2
+Motherwell,Kilmarnock,2,2
+Rangers,Celtic,0,0
+Dundee FC,Dundee United,0,2
+Aberdeen,Falkirk,0,1
+Hibernian,St. Mirren,1,1
+Aberdeen,Livingston,0,0
+Dundee FC,Motherwell,1,1
+Falkirk,St. Mirren,1,2
+Rangers,Hearts,0,2
+Hibernian,Dundee United,3,3
+Kilmarnock,Celtic,1,2
+Celtic,Hibernian,0,0
+Dundee United,Kilmarnock,0,2
+Hearts,Falkirk,3,0
+St. Mirren,Dundee FC,1,0
+Motherwell,Aberdeen,2,0
+Livingston,Rangers,1,2
+Dundee United,Livingston,1,1
+Kilmarnock,St. Mirren,2,0
+Hearts,Hibernian,1,0
+Aberdeen,Dundee FC,4,0
+Celtic,Motherwell,3,2
+Falkirk,Rangers,1,1
+Hibernian,Livingston,4,0
+Motherwell,Falkirk,1,2
+Rangers,Dundee United,2,2
+St. Mirren,Aberdeen,0,1
+Kilmarnock,Hearts,0,3
+Dundee FC,Celtic,2,0
+Dundee United,St. Mirren,3,1
+Falkirk,Dundee FC,2,1
+Livingston,Motherwell,1,2
+Hearts,Celtic,3,1
+Aberdeen,Hibernian,1,2
+Rangers,Kilmarnock,3,1
+Dundee FC,Livingston,3,2
+Celtic,Falkirk,4,0
+Hibernian,Rangers,0,1
+Kilmarnock,Aberdeen,0,1
+Motherwell,Dundee United,2,0
+St. Mirren,Hearts,2,2
+Falkirk,Kilmarnock,3,1
+Hearts,Dundee FC,4,0
+Motherwell,Hibernian,2,0
+Dundee United,Celtic,2,1
+Rangers,Aberdeen,2,0
+Livingston,St. Mirren,1,1
+Falkirk,Livingston,1,1
+St. Mirren,Hibernian,0,3
+Aberdeen,Motherwell,1,1
+Dundee FC,Rangers,0,3
+Hearts,Dundee United,1,1
+Celtic,Kilmarnock,4,0
+Dundee United,Falkirk,0,3
+Hibernian,Dundee FC,2,0
+Kilmarnock,Motherwell,1,3
+Rangers,Livingston,2,1
+St. Mirren,Celtic,0,1
+Aberdeen,Hearts,1,0
+Dundee FC,St. Mirren,3,1
+Motherwell,Hearts,0,0
+Kilmarnock,Dundee United,1,1
+Hibernian,Celtic,1,2
+Rangers,Falkirk,0,0
+Livingston,Aberdeen,0,1
+Livingston,Hibernian,2,2
+Aberdeen,St. Mirren,3,3
+Celtic,Dundee FC,1,0
+Dundee United,Rangers,2,2
+Falkirk,Motherwell,0,0
+Hearts,Kilmarnock,1,1
+Dundee FC,Aberdeen,1,3
+Hibernian,Falkirk,3,0
+Motherwell,Livingston,3,0
+St. Mirren,Dundee United,2,0
+Kilmarnock,Rangers,0,3
+Celtic,Hearts,1,2
+Dundee United,Motherwell,0,0
+Livingston,Dundee FC,2,2
+Aberdeen,Kilmarnock,2,1
+Rangers,Hibernian,1,0
+Falkirk,Celtic,0,1
+Hearts,St. Mirren,2,0
+Dundee United,Hibernian,1,1
+Kilmarnock,Falkirk,0,1
+Motherwell,Dundee FC,1,0
+St. Mirren,Livingston,1,0
+Hearts,Rangers,2,1
+Celtic,Aberdeen,3,1
+Hibernian,Hearts,3,2
+Dundee FC,Falkirk,1,0
+Livingston,Celtic,2,4
+Rangers,Motherwell,1,0
+St. Mirren,Kilmarnock,0,0
+Aberdeen,Dundee United,1,1
+Falkirk,Hearts,0,2
+Dundee FC,Kilmarnock,2,1
+Hibernian,Aberdeen,2,0
+Livingston,Dundee United,1,3
+Rangers,St. Mirren,2,1
+Motherwell,Celtic,2,0
+Celtic,Rangers,1,3
+Dundee United,Dundee FC,0,1
+Falkirk,Aberdeen,1,0
+Hearts,Livingston,1,0
+Kilmarnock,Hibernian,1,3
+Motherwell,St. Mirren,2,0
+Celtic,Dundee United,4,0
+Hibernian,Motherwell,1,1
+Livingston,Kilmarnock,1,1
+St. Mirren,Falkirk,0,2
+Dundee FC,Hearts,0,1
+Aberdeen,Rangers,0,2
+Aberdeen,Livingston,6,2
+Dundee United,St. Mirren,2,1
+Falkirk,Hibernian,4,1
+Motherwell,Kilmarnock,4,0
+Hearts,Celtic,2,2
+Rangers,Dundee FC,3,0
+Kilmarnock,Aberdeen,3,0
+Livingston,Motherwell,0,2
+St. Mirren,Dundee FC,0,0
+Dundee United,Hearts,0,3
+Hibernian,Rangers,0,0
+Celtic,Falkirk,2,0
+St. Mirren,Hearts,1,0
+Hibernian,Dundee United,3,2
+Livingston,Falkirk,1,2
+Rangers,Kilmarnock,5,1
+Aberdeen,Celtic,1,2
+Dundee FC,Motherwell,2,1
+Hearts,Hibernian,1,0
+Celtic,Livingston,2,1
+Dundee United,Aberdeen,0,0
+Falkirk,Dundee FC,1,0
+Kilmarnock,St. Mirren,4,3
+Motherwell,Rangers,1,1
+Dundee FC,Livingston,2,2
+Falkirk,Dundee United,2,3
+Hibernian,St. Mirren,2,0
+Motherwell,Aberdeen,2,0
+Kilmarnock,Celtic,2,3
+Rangers,Hearts,4,2
+Aberdeen,Dundee FC,2,3
+Celtic,Hibernian,1,2
+Dundee United,Kilmarnock,1,1
+Hearts,Falkirk,1,0
+St. Mirren,Motherwell,0,5
+Livingston,Rangers,2,2
+Dundee FC,Hibernian,3,3
+Falkirk,Kilmarnock,5,1
+Hearts,Aberdeen,1,0
+Livingston,St. Mirren,1,1
+Motherwell,Dundee United,2,0
+Rangers,Celtic,2,2
